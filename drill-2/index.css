@@ -1,0 +1,74 @@
+.box1{
+    border: 5px solid black;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    width: 90vw;
+    height: 25vh;
+}
+.purpleRec {
+    display: inline-block;
+    width: 50px;
+    height: 60%;
+    background-color: purple;
+    margin: 0  20px 20px 20px;
+}
+
+.greenRec {
+    display: inline-block;
+    height: 100%;
+    width: 600px;
+    margin: 0px 10px 10px 10px;
+    background-color: green;
+}
+
+.blueCircle {
+    display: inline-block;
+    border-radius: 50%;
+    height: 100%;
+    width: 15%;
+    margin: 0px 0px 10px 40px;
+    background-color:cornflowerblue;
+}
+
+.box2{
+    border: 5px dotted black;
+    margin: auto;
+    margin-top: 20px;
+    width: 90vw;
+    padding: 40px;
+    height: 25vh;
+}
+
+.beigeRec {
+    height: 90%;
+    width: 80%;
+    box-shadow: 10px 5px 5px black;
+    margin: auto;
+    margin-top: 20px;
+    background-color: beige;
+    
+}
+
+.box3{
+    border: 1px solid grey;
+    margin: auto;
+    margin-top: 20px;
+    width: 35%;
+    height: 25vh;
+
+}
+
+.box3 h1 {
+    font-size: 3rem;
+    font-family: "Zilla Slab", serif;
+    font-weight: 200;
+    letter-spacing: 5px;
+    width: 100px;
+    line-height: 50px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: blue;
+}
