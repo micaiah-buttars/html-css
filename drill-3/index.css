@@ -1,0 +1,43 @@
+.header {
+    height: 10vh;
+    width: 100vw;
+    padding: 10px 0px 10px 0px;
+    background-color: grey;
+}
+
+.blueRectangle{
+    width: 100px;
+    height: 100%;
+    margin-left: 10px;
+    background-color: cornflowerblue;
+}
+
+p {
+    font-size: 1.5rem;
+    padding: 5vw;
+}
+
+.rec1{
+    height: 15vh;
+    width: 100vw;
+    background-color: cornflowerblue;
+
+}
+.rec2{
+    height: 15vh;
+    width: 100vw;
+    background-color: turquoise;
+
+}
+.rec3{
+    height: 15vh;
+    width: 100vw;
+    background-color: greenyellow;
+
+}
+.rec4{
+    height: 15vh;
+    width: 100vw;
+    background-color: yellow;
+
+}
